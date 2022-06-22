@@ -1,2 +1,2 @@
 # EmployeeCrudSpringBoot
-Jump Exercersie for Employee Crud on SpringBoot project
+Jump Exercise for Employee Crud on SpringBoot project
